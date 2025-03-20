@@ -83,7 +83,7 @@
             "description": "مثل صفحة الهبوط ، المدونة ،الصفحات التعريفية",
             "id": "important_links",
             "format": "switch",
-            "required": false,
+            "required": true,
             "value": true,
             "selected": true
         },
